@@ -26,17 +26,17 @@ class alpha1
 
             if(set.size()==26)
 
-            System.out.println("PANAGRAM");
+            System.out.println("panagram");
 
             else
 
-            System.out.println("NOT A PANAGRAM");
+            System.out.println("not a panagram");
 
         }
 
         else
 
-        System.out.println("NOT A PANAGRAM");
+        System.out.println("not a panagram");
 
     }
 
